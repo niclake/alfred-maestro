@@ -17,6 +17,8 @@ You will not regret it.
 
 Both well worth the cost.
 
+This workflow will work on modern Macs, however you must have Rosetta installed on your machine. From your terminal: `softwareupdate --install-rosetta` (You will be prompted to agree)
+
 
 
 ## Installation
